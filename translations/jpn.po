@@ -140,7 +140,7 @@ msgstr "オナジ ネットワークノ ヒトト プレイ！"
 
 # screen_lan_create_or_join.cpp
 msgid "(Incompatible version)"
-msgstr ""
+msgstr "(バージョン ゴカンセイ ナシ)"
 
 # screen_lan_create_or_join.cpp
 msgid "Close room"
@@ -288,11 +288,11 @@ msgstr "コジン"
 
 # screen_view_high_scores.cpp
 msgid "region"
-msgstr ""
+msgstr "コクセキ"
 
 # screen_view_high_scores.cpp
 msgid "world"
-msgstr ""
+msgstr "ワールド"
 
 # screen_benchmark.cpp
 msgid "Skip"
@@ -332,15 +332,15 @@ msgstr "ルーム サンカチュウ"
 
 # screen_online_create_or_join_room.cpp
 msgid "Room is full"
-msgstr "ルームガ イッパイデス"
+msgstr "ルーム マンイン"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room does not exist anymore"
-msgstr "ルームガ アリマセン"
+msgstr "ルーム コレイジョウ ナシ"
 
 # screen_online_create_or_join_room.cpp
 msgid "The room expired"
-msgstr ""
+msgstr "ルーム ジカンギレ"
 
 # screen_online_create_or_join_room.cpp
 msgid "Unknown error"
@@ -512,7 +512,7 @@ msgstr "ホカノ プレイヤーヲ マッテイマス..."
 
 # screen_signin.cpp
 msgid "Check your inbox!"
-msgstr ""
+msgstr "メールヲ チェック！"
 
 # screen_signin.cpp
 msgid "Email"
@@ -520,59 +520,59 @@ msgstr "Email"
 
 # screen_signin.cpp
 msgid "Email not verified"
-msgstr ""
+msgstr "Email ニンショウ シテイマセン"
 
 # screen_signin.cpp
 msgid "Failed to request password reset"
-msgstr ""
+msgstr "パスワード リセット リクエスト シッパイ"
 
 # screen_signin.cpp
 msgid "Failed to resend email"
-msgstr ""
+msgstr "Email サイソウシン シッパイ"
 
 # screen_signin.cpp
 msgid "Password"
-msgstr ""
+msgstr "パスワード"
 
 # screen_signin.cpp
 msgid "Password reset email sent"
-msgstr ""
+msgstr "パスワード リセット メール ソウシンズミ"
 
 # screen_signin.cpp
 msgid "Re-send verification email"
-msgstr ""
+msgstr "ニンショウ メール サイソウシン"
 
 # screen_signin.cpp
 msgid "Request password reset"
-msgstr ""
+msgstr "パスワード リセットヲ リクエスト"
 
 # screen_signin.cpp
 msgid "Requesting password reset"
-msgstr ""
+msgstr "パスワード リセット リクエストチュウ"
 
 # screen_signin.cpp
 msgid "Requesting verification email"
-msgstr ""
+msgstr "ニンショウ メールを リクエストチュウ"
 
 # screen_signin.cpp
 msgid "Reset password"
-msgstr ""
+msgstr "パスワードヲ リセット"
 
 # screen_signin.cpp
 msgid "Sign in"
-msgstr ""
+msgstr "サインイン"
 
 # screen_signin.cpp
 msgid "Signing in"
-msgstr ""
+msgstr "サインインチュウ"
 
 # screen_signin.cpp
 msgid "Successfully signed in!"
-msgstr ""
+msgstr "サインイン セイコウ！"
 
 # screen_signin.cpp
 msgid "Verification email sent"
-msgstr ""
+msgstr "ニンショウ メール ソウシンズミ"
 
 # screen_synchronize.cpp
 msgid "All your medals are here."
@@ -580,139 +580,139 @@ msgstr ""
 
 # screen_synchronize.cpp
 msgid "Failed to synchronize."
-msgstr ""
+msgstr "ドウキ シッパイ"
 
 # screen_synchronize.cpp
 msgid "Synchronization completed."
-msgstr ""
+msgstr "ドウキ カンリョウ"
 
 # screen_synchronize.cpp
 msgid "Synchronizing"
-msgstr ""
+msgstr "ドウキチュウ"
 
 # screen_synchronize.cpp
 msgid "You've been signed out."
-msgstr ""
+msgstr "サインアウト シマシタ"
 
 # screen_account_url_request.cpp
 msgid "Failed to parse server response"
-msgstr ""
+msgstr "サーバー オウトウ カイセキ シッパイ"
 
 # screen_signed_out.cpp
 msgid "Account"
-msgstr ""
+msgstr "アカウント"
 
 # screen_signed_out.cpp
 msgid "Create an account to set your name and sync your data"
-msgstr ""
+msgstr "アカウント ツクッテ ナマエト データヲ ドウキ シヨウ"
 
 # screen_signed_out.cpp
 msgid "Not signed in"
-msgstr ""
+msgstr "サインイン ナシ"
 
 # screen_signed_out.cpp
 msgid "Privacy Policy"
-msgstr ""
+msgstr "プライバシーポリシー"
 
 # screen_signed_out.cpp
 msgid "Register"
-msgstr ""
+msgstr "トウロク"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to play online"
-msgstr ""
+msgstr "オンライン プレイ ニハ サインインガ ヒツヨウデス"
 
 # screen_signed_out.cpp
 msgid "You need to be signed-in to upload scores"
-msgstr ""
+msgstr "スコア アップロード ニハ サインインガ ヒツヨウデス"
 
 # screen_signed_out.cpp
 msgid "Your account"
-msgstr ""
+msgstr "アナタノ アカウント"
 
 # screen_register.cpp
 msgid "Confirm email"
-msgstr ""
+msgstr "Email モウイチド"
 
 # screen_register.cpp
 msgid "Confirm email:"
-msgstr ""
+msgstr "Email モウイチド"
 
 # screen_register.cpp
 msgid "Confirm password"
-msgstr ""
+msgstr "パスワード モウイチド"
 
 # screen_register.cpp
 msgid "Confirm password:"
-msgstr ""
+msgstr "パスワード モウイチド"
 
 # screen_register.cpp
 msgid "Email is invalid!"
-msgstr ""
+msgstr "Emailガ ムコウデス！"
 
 # screen_register.cpp
 msgid "Email:"
-msgstr ""
+msgstr "Email:"
 
 # screen_register.cpp
 msgid "Emails do not match!"
-msgstr ""
+msgstr "Emailガ イッチシマセン！"
 
 # screen_register.cpp
 msgid "Failed to register"
-msgstr ""
+msgstr "トウロク シッパイ"
 
 # screen_register.cpp
 msgid "Passwords do not match!"
-msgstr ""
+msgstr "パスワードガ アッテイマセン！"
 
 # screen_register.cpp
 msgid "Please check your emails!"
-msgstr ""
+msgstr "Emailヲ チェック シテクダサイ！"
 
 # screen_register.cpp
 msgid "Register account"
-msgstr ""
+msgstr "アカウント トウロク"
 
 # screen_register.cpp
 msgid "Registering"
-msgstr ""
+msgstr "トウロクチュウ"
 
 # screen_register.cpp
 msgid "Registration successful."
-msgstr ""
+msgstr "トウロク セイコウ"
 
 # screen_register.cpp
 msgid "Too long. Maximum %s characters."
-msgstr ""
+msgstr "モジノ ナガサ サイダイ %s マデ"
 
 # screen_register.cpp
 msgid "Too short. Minimum %s characters."
-msgstr ""
+msgstr "スクナクトモ %s モジ ヒツヨウデス"
 
 # screen_register.cpp
 msgid "Username"
-msgstr ""
+msgstr "ユーザーネーム"
 
 # screen_register.cpp
 msgid "Username (you can put colors in!):"
-msgstr ""
+msgstr "ユーザーネーム(カラーコード セット カノウ):"
 
 # screen_signed_in.cpp
 msgid "Online profile"
-msgstr ""
+msgstr "オンライン プロフィール"
 
 # screen_signed_in.cpp
 msgid "Sign out"
-msgstr ""
+msgstr "サインアウト"
 
 # screen_signed_in.cpp
 msgid "Synchronize"
-msgstr ""
+msgstr "ドウキ"
 
 # game_hud.cpp
 msgid "Shield: %s"
-msgstr ""
+msgstr "シールド: %s"
 
 # game_network_message_parser.cpp
 msgid "%s left the game"
